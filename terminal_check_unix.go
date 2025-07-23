@@ -1,5 +1,5 @@
-//go:build (linux || aix || zos) && !js && !wasi
-// +build linux aix zos
+//go:build (linux || aix || zos || sylixos) && !js && !wasi
+// +build linux aix zos sylixos
 // +build !js
 // +build !wasi
 
